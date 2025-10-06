@@ -2,6 +2,10 @@
 
 A modern, responsive REST API documentation template built with Tailwind CSS and Alpine.js. This template provides a clean, professional interface for documenting your API endpoints with support for dark mode and multiple viewing modes.
 
+## 🌐 Live Demo
+
+Check out the live demo: [https://baltrek.github.io/tailwind-api-template/](https://baltrek.github.io/tailwind-api-template/)
+
 ## Features
 
 - **🎨 Modern Design**: Clean and professional UI built with Tailwind CSS
@@ -115,7 +119,7 @@ This template is free to use for personal and commercial projects.
 - Built with [Tailwind CSS](https://tailwindcss.com/)
 - Powered by [Alpine.js](https://alpinejs.dev/)
 - Syntax highlighting by [Highlight.js](https://highlightjs.org/)
-- Logo by [SOOB Studio](https://soobstudio.pl/)
+- Logo by [Soobstudio](https://soobstudio.pl/)
 
 ## Support
 
