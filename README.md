@@ -4,7 +4,7 @@ A modern, responsive REST API documentation template built with Tailwind CSS and
 
 ## 🌐 Live Demo
 
-Check out the live demo: [https://baltrek.github.io/tailwind-api-template/](https://baltrek.github.io/tailwind-api-template/)
+Check out the live demo: (https://baltrek.github.io/tailwind-api-documentation-template/)
 
 ## Features
 
